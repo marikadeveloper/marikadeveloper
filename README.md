@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marika</h1>
-<h3 align="center">Frontend Developer | Building Bridges Between Code & Creativity</h3>
+<h3 align="center">Frontend Developer | Turning Questions into Answers & Code into Magic ✨</h3>
 
 - 🔭 I’m currently working at - [moku](https://www.moku.io/en)
 
