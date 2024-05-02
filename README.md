@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at - [moku](https://www.moku.io/en)
 
-- 🌱 I’m currently learning - **Computer Science @OPIT**
+- 🌱 I’m currently learning - **Modern Computer Science @OPIT**
 
 - 👯 I’m looking to collaborate on - **Open Source projects**
 
