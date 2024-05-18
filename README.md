@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on - **Open Source projects**
 
+- 🔮 [My website](https://marika.dev/)
+
 - 📫 How to reach me - **hello@marika.dev**
 
 - ⚡ Fun fact - **Meme connoisseur**
