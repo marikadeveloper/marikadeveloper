@@ -9,7 +9,7 @@
 
 - 🔮 [My website](https://marika.dev/)
 
-- 📫 How to reach me - **hello@marika.dev**
+- 📫 How to reach me - **marika.developer@gmail.com**
 
 - ⚡ Fun fact - **Meme connoisseur**
 
