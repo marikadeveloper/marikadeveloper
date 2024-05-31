@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Marika</h1>
 <h3 align="center">Frontend Developer | Turning Code into Magic ✨</h3>
 
-- 🔭 I’m currently working at - [moku](https://www.moku.io/en)
+- 🔭 I’m currently working at [moku](https://www.moku.io/en)
 
-- 🌱 I’m currently learning - **Modern Computer Science @OPIT**
+- 🌱 I’m currently learning **Modern Computer Science @OPIT**
 
-- 👯 I’m looking to collaborate on - **Open Source projects**
+- 👯 I’m looking to collaborate on **Open Source projects**
 
 - 🔮 [My website](https://marika.dev/)
 
-- 📫 How to reach me - **marika.developer@gmail.com**
+- 📫 My email: **marika.developer@gmail.com**
 
-- ⚡ Fun fact - **Meme connoisseur**
+- ⚡ Fun fact: **Meme connoisseur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
