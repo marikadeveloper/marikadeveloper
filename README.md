@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marika</h1>
 <h3 align="center">Frontend Developer | Turning Code into Magic ✨</h3>
 
-- 🔭 working at [moku](https://www.moku.io/en)
+- 🔭 Senior Software Engineer at [Nearform](https://nearform.com/)
 
 - 🌱 learning **Modern Computer Science @OPIT**
 
