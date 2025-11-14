@@ -3,7 +3,7 @@
 
 - 🔭 Senior Software Engineer at [Nearform](https://nearform.com/)
 
-- 🌱 learning **Modern Computer Science @OPIT**
+- 🎓 BSc **Modern Computer Science**
 
 - 👯 looking to collaborate on **Open Source projects**
 
